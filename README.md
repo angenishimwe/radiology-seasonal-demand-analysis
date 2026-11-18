@@ -78,7 +78,7 @@ radiology-seasonal-demand-analysis/
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/radiology-seasonal-demand-analysis.git
+git clone https://github.com/angenishimwe/radiology-seasonal-demand-analysis.git
 cd radiology-seasonal-demand-analysis
 pip install -r requirements.txt
 cd data && python generate_synthetic_data.py && cd ..
@@ -91,5 +91,5 @@ No patient names, national IDs, registration numbers, or exact birth dates are u
 
 ## About
 
-Created by **[Your Name]**, Radiographer, [City, Country].
-LinkedIn: [your link] | Email: [your professional email]
+Created by **Ange NISHIMWE**, Radiographer, Kigali, Rwanda.
+LinkedIn: https://www.linkedin.com/in/ange-nishimwe/ | Email: nishimweangej@gmail.com
