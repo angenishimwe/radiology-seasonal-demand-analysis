@@ -39,7 +39,7 @@ Based on the synthetic dataset (25,946 exams, Jan 2023 to Dec 2024, averaging ab
 
 ## Policy & Staffing Recommendations
 
-Summary of the recommendations presented to the Director of Allied Health Sciences Unit:
+Recommendations for the Allied Health Sciences Unit:
 
 1. **Leave-restriction windows.** Limit annual leave for radiographers during late July (Jul 20 - Aug 2) and early December (Dec 1 - Dec 14), and approve leave for these periods early in the year.
 2. **Targeted shift adjustments.** Add an overlapping or extended shift on Mondays and Tuesdays during peak weeks, when patient flow is highest.
